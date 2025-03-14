@@ -68,6 +68,7 @@ A customer can make multiple bookings.
 
 ## ERD Diagram
 
+<img width="840" alt="Screenshot 2025-03-13 at 9 31 01 PM" src="https://github.com/user-attachments/assets/ec7d7174-1c60-44d6-b3d1-0d95074e00e1" />
 
 
 ## Technologies
