@@ -86,7 +86,7 @@ Redis for caching frequently accessed data like event schedules.
 Use a cache-aside strategy with Redis to improve read performance for high-demand queries like available venues or event details.
 
 #### Failover Strategy:
-Deploy the system across multiple datacenters using a cloud provider like AWS or GCP.
+Deploy the system across multiple datacenters using a cloud provider like AWS.
 Implement automated failover using a load balancer and database replication.
 
 #### Concurrency Management:
